@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import Pic from '../images/Pic1.jpg'
+import Pic from '../images/n.jpg'
 import * as FaIcons from "react-icons/fa"
 import './Contact.css'
 import { ContactForm } from "./ContactForm";

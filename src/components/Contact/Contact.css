@@ -1,7 +1,7 @@
 .Pic{
   padding-bottom: 10px;
   width: 15%;
-  height: 30%;
+  height: 35%;
   border-radius: 10%;
   margin: 5% 5%;
   position: flex;
@@ -27,7 +27,7 @@
   display: flex;
   justify-content: space-between;
   max-width: 200px;
-  margin: 0;
+  margin: -1% 0%;
   position: flex;
   flex-wrap: wrap;
 }

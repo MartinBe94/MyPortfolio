@@ -8,14 +8,14 @@ export const About =() =>{
     <div className="card">
     <div className="about">
         <h1>About</h1>
-        <p>The interest for IT tech world have always been a part of my life since young. </p>
-        <p>All way from the past when I went to my friends house to play games on the commodore 64 and to the modern days how much it have developed. </p>
-        <p>From all application in the smartphone to robotics drones, home system controlled by smartphones with softwares and softwares in the computer.</p>
         <br></br>
-        <p>The first computer I got had the OS windows 98.</p>
-        <p>It was then for the first time started to play Starcraft Original which had and still is one of my favorite games.</p>
-        <p>And next the playstation 1 which alot of games like Tekken 3, Crash bandicoot and more.</p>
-        
+        <p>I'm a .Net/Backend/Fullstack Developer student at IT-Högskolan ( Vocational University)</p>
+        <p>The IT world have always been a big interest part of my life from young age until now.</p>
+        <p>How software is made and how a application can controll a whole home system just with the usage of a smartphone.</p>
+        <br></br>
+        <p>Skills and Languages:</p>
+        <p>Java/  C#/  HTML5/  CSS/  SQL/  MongoDB/  Git/  NoSQL/  MySQL/</p>
+        <p>.NET Framework/  .NET Core/  JavaScript/  React/  API Entity Framework/</p>
     </div>
     </div>
     </>

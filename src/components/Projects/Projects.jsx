@@ -56,10 +56,6 @@ export const Projects =() =>{
     <SiIcons.SiReact/><SiIcons.SiJavascript/><SiIcons.SiCss3/> Simple React Webpage (React/Javascript/CSS)
     </Link>
     </p>
-
-    <p>
-    <SiIcons.SiReact/><SiIcons.SiJavascript/><SiIcons.SiCss3/> My Web Portfolio (React/Javascript/CSS)
-    </p>
     </section>
     </div>
     </div>
