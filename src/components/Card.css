@@ -1,0 +1,12 @@
+.card{
+    width: 820px;
+  height: 80vh;
+  margin: 5% 120%;
+  position: flex;
+  background-color:lightsteelblue;
+  border-radius: 2%;
+  color: black;
+    transition: 850ms;
+    display: flex;
+  flex-wrap: wrap;
+  }

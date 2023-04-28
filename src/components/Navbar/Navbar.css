@@ -1,0 +1,67 @@
+.nav-menu
+{
+    background-color:lightsteelblue;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    transition: 1250ms;
+    flex-wrap: wrap;
+    border-radius: 3%;
+}
+
+.card{
+  background-color:azure;
+    width: 820px;
+    margin: -15% 20%;
+    display: flex;
+    justify-content:center;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    transition: 850ms;
+    flex-wrap: wrap;
+    border-radius: 3%;
+}
+
+.card.active{
+  left: 0;
+  transition: 850ms;
+}
+
+.navbar {
+    height: 150px;
+    display: flex;
+    align-items: top;
+    margin: 0 40px;
+    top:0;
+  }
+  
+  .menu-bars {
+    margin-left: 2rem;
+    font-size: 4rem;
+    background: none;
+    color: #000;
+  }
+
+.nav-menu.active
+{
+    left: 0;
+  transition: 850ms;
+}
+
+.baricon
+{
+    position: fixed;
+    left:2%;
+    top:5%;
+    flex-wrap: wrap;
+}
+
+.closeicon
+{
+    margin: 30px 0 100px;
+}

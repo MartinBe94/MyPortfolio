@@ -1,0 +1,49 @@
+.mobilenav-menu
+{
+    background-color:lightsteelblue;
+    width: 110%;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    position: fixed;
+    margin: 0 -60%;
+    top: -100%;
+    transition: 850ms;
+    flex-wrap: wrap;
+    border-radius: 3%;
+}
+
+
+.mobilenavbar {
+    height: 150px;
+    display: flex;
+    align-items: top;
+    margin: 0 40px;
+    top:0;
+  }
+  
+  .menu-bars {
+    margin-left: 2rem;
+    font-size: 4rem;
+    background: none;
+    color: #000;
+  }
+
+.mobilenav-menu.active
+{
+    top:0;
+  transition: 850ms;
+}
+
+.baricon
+{
+    position: fixed;
+    left:2%;
+    top:5%;
+    flex-wrap: wrap;
+}
+
+.closeicon
+{
+    margin: 30px 0 100px;
+}

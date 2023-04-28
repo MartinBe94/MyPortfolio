@@ -1,0 +1,99 @@
+#root {
+  max-width: 1280px;
+  /* margin:0 auto; */
+  /* text-align: center; */
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.navmenu
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu{
+  margin-left: 1450px;
+  position: flex;
+  flex-wrap: wrap;
+}
+
+/* body{
+  background-color:bisque;
+} */
+
+body{
+  background-image: url(./components/images/1.jpg);
+  padding: 0%;
+  width: 1280px;
+  height: 600px;
+  margin:-18% -50%;
+  position:fixed;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: flex;
+  animation-name: example;
+  animation-duration: 60s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-out;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .bg{
+  background-image: url(./components/images/1.jpg);
+  padding: 0%;
+  width: 1280px;
+  height: 600px;
+  margin:-18% -50%;
+  position:fixed;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: flex;
+  animation-name: example;
+  animation-duration: 60s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-out;
+  display: flex;
+  flex-wrap: wrap;
+} */
+
+
+.Pic{
+padding-bottom: 10px;
+width: 15%;
+height: 15%;
+border-radius: 10%;
+margin-left: 43%;
+position: flex;
+display: flex;
+}
+/* @keyframes example {
+  from {background-image: url(./images/sea.jpg);}
+  to {background-image: url(./images/ocean\ wave.jpg);}
+} */
+@keyframes example {
+0%   {background-image: url(./components/images/1.jpg)}
+12.5%  {background-image: url(./components/images/3.jpg)}
+25%  {background-image: url(./components/images/5.jpg)}
+37.5%  {background-image: url(./components/images/6.jpg)}
+50% {background-image: url(./components/images/7.jpg)}
+62.5% {background-image: url(./components/images/9.jpg)}
+75% {background-image: url(./components/images/10.jpg)}
+87.5% {background-image: url(./components/images/12.jpg)}
+100% {background-image: url(./components/images/1.jpg)}
+
+}
+
+.home
+{
+  margin: 15% 45%;
+}

@@ -1,0 +1,51 @@
+.Pic{
+  padding-bottom: 10px;
+  width: 15%;
+  height: 30%;
+  border-radius: 10%;
+  margin: 5% 5%;
+  position: flex;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .contact{
+  width: 820px;
+  height: 80vh;
+  margin: -12% 21%;
+  position: fixed;
+  background-color: azure;
+  border-radius: 2%;
+  color: black;
+    transition: 850ms;
+    
+} */
+
+.icons{
+  font-size: 3rem;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  max-width: 200px;
+  margin: 0;
+  position: flex;
+  flex-wrap: wrap;
+}
+
+.title{
+  position: flex;
+  margin: -2% 4%;
+}
+
+.mailtome
+{
+  position: flex;
+  margin: -145% 50%;
+}
+
+.message{
+  position: flex;
+  text-align: 1200px;
+  width: 300px;
+  height: 25vh;
+}
